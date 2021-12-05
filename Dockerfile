@@ -1,1 +1,1 @@
-FROM elasticsearch:7.14.2
+FROM docker.elastic.co/elasticsearch/elasticsearch:6.2.3
